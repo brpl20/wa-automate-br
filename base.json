@@ -1,0 +1,47 @@
+{
+  "groups": {
+    "ignoreAllGroups": true,
+    "notIgnoredGroups": [
+      "559185350177-1628825420@g.us"
+    ],
+    "autoExitGroups": true
+  },
+  "autoResponse": {
+    "autoResponseOn": true,
+    "responseList": {
+      "contents": { 
+        "greetings": [
+          "Bom dia",
+          "Boa Tarde"
+        ],
+        "personalInfo": [
+          "Banco",
+          "Email",
+          "Endereco"
+        ]
+      },
+      "answers": {
+        "greetings": [
+          "Bom Dia!",
+          "Boa Tarde"
+        ],
+        "personalInfo": [
+          "Banco Agibank",
+          "bloto@blotinho.com",
+          "Rua Alegria"
+        ]
+      }
+    }
+  },
+  "scheduleMessage": {
+    "num": 1,
+    "content": "kjdka",
+    "chatId": "559185350177@c.us",
+    "timeStamp": "2021-08-12T23:22:00"
+  },
+  "sendMessageToAllChats": {
+    "content": "kjdka",
+    "chatList": ["559185350177@c.us", "559185350177-1628825399@g.us", "559185350177-1628825420@g.us"],
+    "timeStamp": "2021-08-12T23:23:00"
+  }
+}
